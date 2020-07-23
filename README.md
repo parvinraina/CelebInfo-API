@@ -167,3 +167,4 @@ Response will be like this,
 	}]
 }
 ```
+[![Run on Repl.it](https://repl.it/badge/github/daxeel/CelebInfo-API)](https://repl.it/github/daxeel/CelebInfo-API)
